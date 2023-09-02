@@ -164,7 +164,7 @@ This project is licensed under the MIT license.
 
 ## Credits
 
-Thank you 2023 UC Berkeley Coding Bootcamp for providing its starter code.
+Thank you 2023 UC Berkeley Coding Bootcamp for providing mock up images.
 
 ---
 
